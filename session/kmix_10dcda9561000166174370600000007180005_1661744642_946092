@@ -1,0 +1,12 @@
+[Number]
+NumberOfWindows=1
+
+[WindowProperties1]
+ClassName=KMixWindow
+DP-0.2 DP-0.3 DP-4 Height 1920x1080=480
+DP-0.2 DP-0.3 DP-4 Width 1920x1080=640
+DP-0.2 DP-0.3 DP-4 XPosition 1920x1080=0
+DP-0.2 DP-0.3 DP-4 YPosition 1920x1080=0
+ObjectName=KMixWindow
+State=AAAA/wAAAAD9AAAAAAAAAAAAAAAAAAAABAAAAAQAAAAIAAAACPwAAAAA
+ToolBarsMovable=Disabled

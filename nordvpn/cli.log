@@ -1,0 +1,5 @@
+2023/01/11 15:28:52 [Error] rpc error: code = Unavailable desc = connection error: desc = "transport: Error while dialing dial unix /run/nordvpn/nordvpnd.sock: connect: permission denied"
+2023/01/11 15:31:48 Whoops! Something went wrong. Please try again. If the problem persists, contact our customer support.
+2023/01/11 15:36:23 Whoops! Something went wrong. Please try again. If the problem persists, contact our customer support.
+2023/01/12 18:16:44 Whoops! Something went wrong. Please try again. If the problem persists, contact our customer support.
+2023/01/13 08:16:35 Whoops! Something went wrong. Please try again. If the problem persists, contact our customer support.

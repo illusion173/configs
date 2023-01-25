@@ -1,0 +1,21 @@
+00:00:00.241502 VirtualBox GUI VM Selector Window 7.0.6 r155176 linux.amd64 (Jan 17 2023 21:23:05) release log
+00:00:00.241503 Log opened 2023-01-23T19:45:49.740413000Z
+00:00:00.241504 Build Type: release
+00:00:00.241505 OS Product: Linux
+00:00:00.241505 OS Release: 6.1.7-arch1-1
+00:00:00.241505 OS Version: #1 SMP PREEMPT_DYNAMIC Wed, 18 Jan 2023 19:54:38 +0000
+00:00:00.241521 DMI Product Name: 82K8
+00:00:00.241525 DMI Product Version: Legion S7 15ACH6
+00:00:00.241528 Firmware type: UEFI
+00:00:00.241763 Secure Boot: Disabled
+00:00:00.241801 Host RAM: 15356MB (14.9GB) total, 13472MB (13.1GB) available
+00:00:00.241802 Executable: /usr/lib/virtualbox/VirtualBox
+00:00:00.241803 Process ID: 4971
+00:00:00.241803 Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.241820 Qt version: 5.15.8
+00:00:00.242769 GUI: UIMediumEnumerator: Initial medium-enumeration finished!
+00:00:00.246849 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:00.573358 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 962x4 x 950x1068
+00:00:00.589802 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:02.575315 GUI: UICommon: Handling aboutToQuit request..
+00:00:03.620642 GUI: UICommon: aboutToQuit request handled!
